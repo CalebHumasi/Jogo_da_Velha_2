@@ -1,0 +1,16 @@
+C:\Users\Oziel\source\repos\JogoDaVelha2\JogoDaVelha2\bin\Debug\net5.0\JogoDaVelha2.exe
+C:\Users\Oziel\source\repos\JogoDaVelha2\JogoDaVelha2\bin\Debug\net5.0\JogoDaVelha2.deps.json
+C:\Users\Oziel\source\repos\JogoDaVelha2\JogoDaVelha2\bin\Debug\net5.0\JogoDaVelha2.runtimeconfig.json
+C:\Users\Oziel\source\repos\JogoDaVelha2\JogoDaVelha2\bin\Debug\net5.0\JogoDaVelha2.runtimeconfig.dev.json
+C:\Users\Oziel\source\repos\JogoDaVelha2\JogoDaVelha2\bin\Debug\net5.0\JogoDaVelha2.dll
+C:\Users\Oziel\source\repos\JogoDaVelha2\JogoDaVelha2\bin\Debug\net5.0\JogoDaVelha2.pdb
+C:\Users\Oziel\source\repos\JogoDaVelha2\JogoDaVelha2\obj\Debug\net5.0\JogoDaVelha2.csproj.AssemblyReference.cache
+C:\Users\Oziel\source\repos\JogoDaVelha2\JogoDaVelha2\obj\Debug\net5.0\JogoDaVelha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oziel\source\repos\JogoDaVelha2\JogoDaVelha2\obj\Debug\net5.0\JogoDaVelha2.AssemblyInfoInputs.cache
+C:\Users\Oziel\source\repos\JogoDaVelha2\JogoDaVelha2\obj\Debug\net5.0\JogoDaVelha2.AssemblyInfo.cs
+C:\Users\Oziel\source\repos\JogoDaVelha2\JogoDaVelha2\obj\Debug\net5.0\JogoDaVelha2.csproj.CoreCompileInputs.cache
+C:\Users\Oziel\source\repos\JogoDaVelha2\JogoDaVelha2\obj\Debug\net5.0\JogoDaVelha2.dll
+C:\Users\Oziel\source\repos\JogoDaVelha2\JogoDaVelha2\obj\Debug\net5.0\refint\JogoDaVelha2.dll
+C:\Users\Oziel\source\repos\JogoDaVelha2\JogoDaVelha2\obj\Debug\net5.0\JogoDaVelha2.pdb
+C:\Users\Oziel\source\repos\JogoDaVelha2\JogoDaVelha2\obj\Debug\net5.0\JogoDaVelha2.genruntimeconfig.cache
+C:\Users\Oziel\source\repos\JogoDaVelha2\JogoDaVelha2\obj\Debug\net5.0\ref\JogoDaVelha2.dll
